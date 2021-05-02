@@ -16,7 +16,8 @@ Achievement based grades
 - D  = Fail (0.00-49.49%)
 
 # Screenshots
-![Screenshot 1](https://github.com/MiguelEmmara-ai/AUT_Grading_System/tree/master/Screenshots/App.PNG)
+![Screenshot 1](https://github.com/MiguelEmmara-ai/AUT_Grading_System/blob/master/Screenshots/App.PNG)
+
 
 
 # License
