@@ -66,7 +66,7 @@ public class Main {
                         stop = true;
                         break;
                     default:
-                            System.out.println("Please Input A Valid Answer");
+                        System.out.println("Please Input A Valid Answer");
 
                 }
 

@@ -15,6 +15,9 @@ Achievement based grades
 - C-  = Pass (49.50-54.49%)
 - D  = Fail (0.00-49.49%)
 
+# Screenshots
+![Screenshot 1](https://github.com/MiguelEmmara-ai/AUT_Grading_System/tree/master/Screenshots/App.PNG)
+
 
 # License
 
