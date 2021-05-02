@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Grading:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Grading_jar</output-path>
+    <root id="archive" name="Grading.jar">
+      <element id="module-output" name="Grading" />
+      <element id="dir-copy" path="$PROJECT_DIR$/res" />
+    </root>
+  </artifact>
+</component>

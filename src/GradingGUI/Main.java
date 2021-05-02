@@ -2,11 +2,14 @@ package GradingGUI;
 
 import javax.swing.*;
 import java.awt.*;
+import java.util.Objects;
 
 /**
  * Created by Miguel Emmara
  */
 public class Main extends JFrame {
+    ImageIcon logo = new ImageIcon(Objects.requireNonNull(getClass().getClassLoader().getResource("AUT.jpg")));
+
     public Main() {
         AppPanel appPanel = new AppPanel("Tatakae!");
 
@@ -21,6 +24,7 @@ public class Main extends JFrame {
         int y = (screenSize.height - this.getHeight()) / 2;
 
         appPanel.setLocation(10, 50);
+        this.setIconImage(logo.getImage());
         this.getContentPane().add(appPanel);
         this.setLocation(x, y);
         this.setTitle("AUT Grading System Calculator");
