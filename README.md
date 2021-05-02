@@ -18,7 +18,8 @@ Achievement based grades
 # Screenshots
 ![Screenshot 1](https://github.com/MiguelEmmara-ai/AUT_Grading_System/blob/master/Screenshots/App.PNG)
 
-
+# Downloads exe file
+  - [Here](https://github.com/MiguelEmmara-ai/AUT_Grading_System/blob/master/AUT%20Grading%20System%20Calculator.exe?raw=true)
 
 # License
 
