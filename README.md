@@ -18,10 +18,17 @@ Achievement based grades
 [More Info](https://student.aut.ac.nz/study/study-help/assessments-and-exams/assessment-results-and-paper-grading)
 
 # Screenshots
+Light
+
 ![Screenshot 1](https://github.com/MiguelEmmara-ai/AUT_Grading_System/blob/master/Screenshots/App.PNG)
 
+Dark
+
+![Screenshot 1](https://github.com/MiguelEmmara-ai/AUT_Grading_System/blob/master/Screenshots/AppV2.PNG)
+
 # Downloads exe file
-  - [Here](https://github.com/MiguelEmmara-ai/AUT_Grading_System/blob/master/AUT%20Grading%20System%20Calculator.exe?raw=true)
+  - [Light](https://github.com/MiguelEmmara-ai/AUT_Grading_System/blob/master/AUT%20Grading%20System%20Calculator.exe?raw=true)
+  - [Dark](https://github.com/MiguelEmmara-ai/AUT_Grading_System/blob/master/AUT%20Grading%20System%20Calculator%20Dark.exe?raw=true)
 
 # License
 
