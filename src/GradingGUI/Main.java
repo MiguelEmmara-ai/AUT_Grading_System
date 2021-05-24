@@ -1,5 +1,7 @@
 package GradingGUI;
 
+import com.formdev.flatlaf.FlatDarculaLaf;
+
 import javax.swing.*;
 import java.awt.*;
 import java.util.Objects;
@@ -11,6 +13,7 @@ public class Main extends JFrame {
     ImageIcon logo = new ImageIcon(Objects.requireNonNull(getClass().getClassLoader().getResource("AUT.jpg")));
 
     public Main() {
+        FlatDarculaLaf.install();
         AppPanel appPanel = new AppPanel("Tatakae!");
 
         //get the size of the screen
