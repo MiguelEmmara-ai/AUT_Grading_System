@@ -15,10 +15,13 @@ Achievement based grades
 - C-  = Pass (49.50-54.49%)
 - D  = Fail (0.00-49.49%)
 
+[More Info](https://student.aut.ac.nz/study/study-help/assessments-and-exams/assessment-results-and-paper-grading)
+
 # Screenshots
 ![Screenshot 1](https://github.com/MiguelEmmara-ai/AUT_Grading_System/blob/master/Screenshots/App.PNG)
 
-
+# Downloads exe file
+  - [Here](https://github.com/MiguelEmmara-ai/AUT_Grading_System/blob/master/AUT%20Grading%20System%20Calculator.exe?raw=true)
 
 # License
 
