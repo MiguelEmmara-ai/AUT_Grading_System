@@ -24,7 +24,7 @@ Light
 
 Dark
 
-![Screenshot 1](https://github.com/MiguelEmmara-ai/AUT_Grading_System/blob/master/Screenshots/AppV2.PNG)
+![Screenshot 1](https://github.com/MiguelEmmara-ai/AUT_Grading_System/blob/master/Screenshots/AppV2.png)
 
 # Downloads exe file
   - [Light](https://github.com/MiguelEmmara-ai/AUT_Grading_System/blob/master/AUT%20Grading%20System%20Calculator.exe?raw=true)
